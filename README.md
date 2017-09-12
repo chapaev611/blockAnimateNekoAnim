@@ -1,6 +1,7 @@
 <!-- Animate Scripts -->
 
 function resizeAnimate() {
+
 	if($(window).width() >= '992') {
 
 		// FADE IN UP
